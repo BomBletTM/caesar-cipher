@@ -17,8 +17,10 @@ A simple encryption tool that encodes and decodes text using the Caesar Cipher m
 - DOM interaction (input/output handling)
 
 ## 📸 Screenshots
-![Caesar Cipher](./screenshots/caesar-cipher.jpg)
-![Work Result](./screenshots/caesar-cipher-result.jpg)
+
+![Caesar Cipher](./screenshots/caesar-cipher.png)
+
+![Work Result](./screenshots/caesar-cipher-result.png)
 
 ## 📁 Project Structure
 <pre>
@@ -27,7 +29,7 @@ A simple encryption tool that encodes and decodes text using the Caesar Cipher m
 ├── script.js
 ├── style.css
 ├── screenshots/
-│ ├── caesar-cipher.jpg
-│ └── caesar-cipher-result.jpg
+│ ├── caesar-cipher.png
+│ └── caesar-cipher-result.png
 └── README.md
 </pre>
